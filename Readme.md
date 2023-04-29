@@ -110,3 +110,30 @@ Difficulties:
 		* Arrive herald
 		* Build building
 		* Influence attack against you?
+
+### Schedule
+
+* Friday Evening
+	- Concept selection
+	- Planning
+* Saturday Morning
+	- Influence mechanics
+	- Herald mechanics
+	- AI implementation
+	- Build mechanics
+* Saturday Afternoon
+	- Overflow mechanic implementation
+	- Draw livery
+	- HUD basics
+* Saturday Evening
+	- Building models
+	- Decorative models
+* Sunday Morning
+	- Basically nothing
+* Sunday Afternoon
+	- Victory and loss
+	- Tutorial
+* Sunday Evening
+	- Sound
+	- Polish
+	- Menus
