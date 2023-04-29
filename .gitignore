@@ -1,0 +1,7 @@
+# Precompiled Assets
+SourceArt/**/*.png
+SourceArt/**/*.tga
+
+*.blend[0-9]
+
+workspace.code-workspace
